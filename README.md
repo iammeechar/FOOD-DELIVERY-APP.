@@ -36,8 +36,8 @@ To use the aforementioned features, follow these simple steps:
 
 4.The Food Delivery App is built using the following technologies:
 
-    Frontend: Developed using React Native for a cross-platform experience.
-    Backend: Powered by a Python with a MongoDB database.
+    Frontend: Developed using basic HTML and JS.
+    Backend: Powered by a Python and Django.
     Payments: Secured through industry-standard payment gateways.
 
 6.The Food app is released under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms specified in the license.
